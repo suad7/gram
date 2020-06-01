@@ -23,3 +23,4 @@ $ python3.6 -m venv virtual
 
           $ python3.6 -m pip install -r requirements.txt
 
+4. Run the application:
