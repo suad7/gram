@@ -30,3 +30,4 @@ $ python3.6 -m venv virtual
 ### TESTING THE APPLICATION
 1. To run the tests for the class files:
 
+          $ python3.6 manage.py test 
