@@ -1,2 +1,2 @@
 ### PROJECT NAME
-gram
+instagram clone 
