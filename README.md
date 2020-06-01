@@ -26,3 +26,6 @@ $ python3.6 -m venv virtual
 4. Run the application:
 
           $ python3 manage.py runserver
+
+### TESTING THE APPLICATION 
+     
