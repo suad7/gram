@@ -27,5 +27,6 @@ $ python3.6 -m venv virtual
 
           $ python3 manage.py runserver
 
-### TESTING THE APPLICATION 
-     
+### TESTING THE APPLICATION
+1. To run the tests for the class files:
+
