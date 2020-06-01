@@ -10,4 +10,5 @@ You need to do the following to start working on the project on your local compu
 1. Clone the application using git clone(this copies the app onto your device). In terminal:
           $ git clone
           $ cd instagram
+2. Creating the virtual environment:          
 
