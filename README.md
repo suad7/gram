@@ -21,4 +21,5 @@ $ python3.6 -m venv virtual
 
 3. Installing Django and other Modules: 
 
-        
+          $ python3.6 -m pip install -r requirements.txt
+
