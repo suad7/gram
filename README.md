@@ -17,5 +17,8 @@ You need to do the following to start working on the project on your local compu
 
 $ python3.6 -m venv virtual
           $ source virtual/bin/env
-          $ curl https://bootstrap.pypa.io/get-pip.py |python          
+          $ curl https://bootstrap.pypa.io/get-pip.py |python        
 
+3. Installing Django and other Modules: 
+
+        
