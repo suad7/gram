@@ -45,3 +45,9 @@ $ python3.6 -m venv virtual
 ### DEPLOYING (LIVE LINK)
 
 ### BEHAVIOR DRIVEN DEVELOPMENT (SPECIFICATIONS)
+| Behaviour| Input | Output |
+| ------------- | ----------------- | ------------------ |
+| Save uploaded images | Upload image | Saves image |
+| Update images as app user | update image at from navbar 'update' option | Updates |
+| Show image details below image | Click image | Zooms with deets |
+|post comment | click on view | returns comiient section fill then post |
