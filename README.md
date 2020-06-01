@@ -35,4 +35,5 @@ $ python3.6 -m venv virtual
 ### PROJECT SETUP INSTRUCTION
 - Clone this repository to your local computer.
 - Ensure you have python3.6 installed in your computer.
+- From the terminal navigate to the cloned project folder.
 
