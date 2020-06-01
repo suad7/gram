@@ -51,3 +51,6 @@ $ python3.6 -m venv virtual
 | Update images as app user | update image at from navbar 'update' option | Updates |
 | Show image details below image | Click image | Zooms with deets |
 |post comment | click on view | returns comiient section fill then post |
+
+### CONTACT 
+sm.ha21@hotmail.com
