@@ -42,3 +42,5 @@ $ python3.6 -m venv virtual
 * Python3.6
 * Bootstrap3
 
+### DEPLOYING (LIVE LINK)
+
