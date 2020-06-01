@@ -38,4 +38,7 @@ $ python3.6 -m venv virtual
 - From the terminal navigate to the cloned project folder.
 
 ## TECHNOLOGIES USED
+* Django
+* Python3.6
+* Bootstrap3
 
